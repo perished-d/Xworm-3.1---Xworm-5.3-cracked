@@ -74,3 +74,7 @@
 [Update/Execute]  
 [Builder]  
 
+
+Password in discord with other tools like Xbinder
+https://discord.gg/sRvNKuvZ
+
