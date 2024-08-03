@@ -1,8 +1,3 @@
-Password in discord with other tools like Xbinder
-https://discord.gg/sRvNKuvZ
-
-
-
 🐁 # XWorm 3.1 🐀
  [Information]  
  [Monitor]  
@@ -79,10 +74,9 @@ https://discord.gg/sRvNKuvZ
 [Update/Execute]  
 [Builder]  
 
-
-Password in discord with other tools like Xbinder
+It was too big for github i aint paying 4 dollars...
+get it on the server
 https://discord.gg/sRvNKuvZ
-
 
 
 ![image](https://github.com/user-attachments/assets/af51d938-6c0c-465f-9a26-8bef96efd66a)
