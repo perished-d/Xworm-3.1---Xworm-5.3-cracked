@@ -1,5 +1,8 @@
-![image](https://github.com/user-attachments/assets/af51d938-6c0c-465f-9a26-8bef96efd66a)
-![image](https://github.com/user-attachments/assets/f5e335c5-84e8-43f4-8584-12d7d2a1d98a)
+Password in discord with other tools like Xbinder
+https://discord.gg/sRvNKuvZ
+
+
+
 🐁 # XWorm 3.1 🐀
  [Information]  
  [Monitor]  
@@ -80,3 +83,7 @@
 Password in discord with other tools like Xbinder
 https://discord.gg/sRvNKuvZ
 
+
+
+![image](https://github.com/user-attachments/assets/af51d938-6c0c-465f-9a26-8bef96efd66a)
+![image](https://github.com/user-attachments/assets/f5e335c5-84e8-43f4-8584-12d7d2a1d98a)
